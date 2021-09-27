@@ -1,0 +1,8 @@
+15:11:46.072 [main] INFO  resources.base - Required place is present
+15:12:07.349 [main] INFO  resources.base - clicked on allfurniture
+15:12:09.529 [main] INFO  resources.base - clicked on study room tables
+15:12:09.618 [main] INFO  resources.base - got all category prices
+11:06:10.090 [main] INFO  resources.base - clicked on help button
+11:06:10.932 [main] INFO  resources.base - got contact email
+11:06:52.841 [main] INFO  resources.base - clicked in store
+11:06:55.733 [main] INFO  resources.base - got Jpnagar Store address

@@ -1,0 +1,9 @@
+15:10:51.493 [main] INFO  resources.base - clicked on signup button
+15:11:01.970 [main] INFO  resources.base - entered mailid
+15:11:02.001 [main] INFO  resources.base - entered password
+15:11:05.171 [main] INFO  resources.base - clicked on signup 
+15:11:23.060 [main] INFO  resources.base - clicked on login button
+15:11:23.119 [main] INFO  resources.base - entered email
+15:11:23.142 [main] INFO  resources.base - entered password
+15:11:25.525 [main] INFO  resources.base - clicked on login
+15:11:40.786 [main] INFO  resources.base - clicked on the more locations

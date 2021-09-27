@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="169498" started-at="2021-09-27T15:53:15 IST" finished-at="2021-09-27T15:56:04 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="169498" started-at="2021-09-27T15:53:15 IST" finished-at="2021-09-27T15:56:04 IST">
+      <class name="Testrunner.runner">
+        <test-method status="PASS" signature="setPriceLimit1()[pri:0, instance:Testrunner.runner@1b7cc17c]" name="setPriceLimit1" duration-ms="23460" started-at="2021-09-27T15:53:15 IST" finished-at="2021-09-27T15:53:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPriceLimit1 -->
+        <test-method status="PASS" signature="signupdetails1()[pri:1, instance:Testrunner.runner@1b7cc17c]" name="signupdetails1" duration-ms="17244" started-at="2021-09-27T15:53:38 IST" finished-at="2021-09-27T15:53:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupdetails1 -->
+        <test-method status="PASS" signature="getcontactmail1()[pri:2, instance:Testrunner.runner@1b7cc17c]" name="getcontactmail1" duration-ms="19139" started-at="2021-09-27T15:53:56 IST" finished-at="2021-09-27T15:54:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getcontactmail1 -->
+        <test-method status="PASS" signature="setPriceLimit()[pri:3, instance:Testrunner.runner@1b7cc17c]" name="setPriceLimit" duration-ms="27491" started-at="2021-09-27T15:54:15 IST" finished-at="2021-09-27T15:54:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPriceLimit -->
+        <test-method status="PASS" signature="signupdetails()[pri:4, instance:Testrunner.runner@1b7cc17c]" name="signupdetails" duration-ms="23775" started-at="2021-09-27T15:54:42 IST" finished-at="2021-09-27T15:55:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupdetails -->
+        <test-method status="PASS" signature="logindetails1()[pri:5, instance:Testrunner.runner@1b7cc17c]" name="logindetails1" duration-ms="22358" started-at="2021-09-27T15:55:06 IST" finished-at="2021-09-27T15:55:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindetails1 -->
+        <test-method status="PASS" signature="getcontactmail()[pri:6, instance:Testrunner.runner@1b7cc17c]" name="getcontactmail" duration-ms="17056" started-at="2021-09-27T15:55:28 IST" finished-at="2021-09-27T15:55:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getcontactmail -->
+        <test-method status="PASS" signature="Logindetails()[pri:7, instance:Testrunner.runner@1b7cc17c]" name="Logindetails" duration-ms="18936" started-at="2021-09-27T15:55:45 IST" finished-at="2021-09-27T15:56:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logindetails -->
+      </class> <!-- Testrunner.runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
